@@ -1,0 +1,36 @@
+#a {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    margin: 10px auto;
+}
+
+#b {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    margin: 10px auto;
+}
+
+#c {
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    margin: 10px auto;
+}
+
+#d {
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    margin: 10px auto;
+}
+
+#key {
+    height: 200px;
+    width: 200px;
+    background-color:  white;
+    border: 1px solid black;
+    margin: 10px auto;
+}
+
